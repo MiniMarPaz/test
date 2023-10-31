@@ -1,0 +1,42 @@
+{
+  "name": "react-typescript",
+  "version": "1.0.0",
+  "description": "React and TypeScript example starter project",
+  "keywords": [
+    "typescript",
+    "react",
+    "starter"
+  ],
+  "main": "src/index.tsx",
+  "dependencies": {
+    "@ckeditor/ckeditor5-basic-styles": "24.0.0",
+    "@ckeditor/ckeditor5-build-classic": "24.0.0",
+    "@ckeditor/ckeditor5-build-decoupled-document": "24.0.0",
+    "@ckeditor/ckeditor5-core": "24.0.0",
+    "@ckeditor/ckeditor5-editor-classic": "24.0.0",
+    "@ckeditor/ckeditor5-essentials": "24.0.0",
+    "@ckeditor/ckeditor5-paragraph": "24.0.0",
+    "@ckeditor/ckeditor5-react": "3.0.0",
+    "ckeditor5-custom-build": "0.0.6",
+    "react": "17.0.0",
+    "react-dom": "17.0.0",
+    "react-scripts": "3.3.0"
+  },
+  "devDependencies": {
+    "@types/react": "16.9.19",
+    "@types/react-dom": "16.9.5",
+    "typescript": "3.7.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
